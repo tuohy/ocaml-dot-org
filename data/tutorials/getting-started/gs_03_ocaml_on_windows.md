@@ -20,7 +20,7 @@ Our guidance is when you want:
 
 * **Only to run, not develop, applications**, use [Docker](#docker-images) or [WSL2](#wsl2)
 * **To develop applications and have some familiarity with Unix**, use [opam-repository-mingw](#opam-repository-mingw)
-* **To develop applications and care more about stability and ease-of-use than the latest compiler**, use [Diskuv OCaml](https://diskuv-ocaml.gitlab.io/distributions/dkml/)
+* **To develop applications and care more about stability and ease-of-use than the latest compiler**, use [Diskuv OCaml](https://diskuv-ocaml.gitlab.io/distributions/dkml/ - [403 Forbidden])
 
 The guidance is based on the availability table below:
 * Tier 1 is fully supported with the latest compilers
@@ -99,7 +99,7 @@ easier way to get a working Windows environment on your machine.
 3. **Uncheck** `OCaml: Use OCaml Env`
 
 **If you use WSL2**, you will remotely connect to your WSL2 instance from
-Visual Studio Code. Microsoft has a [useful blog post](https://code.visualstudio.com/blogs/2019/09/03/wsl2)
+Visual Studio Code. Microsoft has a [useful blog post](https://code.visualstudio.com/blogs/2019/09/03/wsl2 - [503 Service Unavailable])
 covering getting WSL2 and Visual Studio Code connected.
 
 ### Vim and Emacs on Windows
